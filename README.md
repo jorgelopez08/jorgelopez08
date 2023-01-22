@@ -4,7 +4,7 @@
 - Fullstack Web Development with Python & React/React Native
 - Data Science & Machine Learning
 
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning Machine Learning
 
 💞️ I’m looking to collaborate on web projects
 
