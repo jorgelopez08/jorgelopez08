@@ -1,4 +1,4 @@
-👋 Hi, I’m @jorgelopez08, Jr. Software Developer
+👋 Hi, I’m @jorgelopez08, Jr/Mid Software Engineer
 
 👀 I’m interested in:
 - Backend development with Python (Django & FastAPI)
