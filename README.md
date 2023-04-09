@@ -1,10 +1,11 @@
 👋 Hi, I’m @jorgelopez08, Jr. Software Developer
 
 👀 I’m interested in:
-- Fullstack Web Development with Python & React/React Native
-- Data Science & Machine Learning
+- Backend development with Python (Django & FastAPI)
+- Frontend development with React
+- Mobile development with React native
 
-🌱 I’m currently learning Machine Learning
+🌱 I’m currently learning DevOps
 
 💞️ I’m looking to collaborate on web projects
 
