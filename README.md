@@ -1,13 +1,13 @@
-👋 Hi, I’m @jorgelopez08, Jr/Mid Software Engineer
+👋 Hi, I’m @jorgelopez08, Senior Software Engineer @Oracle
 
 👀 I’m interested in:
 - Backend development with Python (Django & FastAPI)
 - Frontend development with React
-- Mobile development with React native
+- Mobile development with React native & Flutter
 
-🌱 I’m currently learning DevOps
+🌱 I’m currently learning mobile development & CI/CD
 
-💞️ I’m looking to collaborate on web projects
+💞️ I’m looking to collaborate on fintech projects
 
 📫 You can contact me via email, my email is j.luis.jl7@gmail.com
 
